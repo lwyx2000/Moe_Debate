@@ -1,0 +1,11 @@
+# Copy to backend/config.toml or point MOE_DEBATE_CONFIG to your own file.
+# Environment variables MOE_DEBATE_DB_HOST, MOE_DEBATE_DB_PORT, MOE_DEBATE_DB_USER,
+# MOE_DEBATE_DB_PASSWORD, MOE_DEBATE_DB_NAME and MOE_DEBATE_DB_CHARSET override this file.
+
+[database]
+host = "127.0.0.1"
+port = 3306
+user = "moe_debate"
+password = "change-me"
+database = "moe_debate"
+charset = "utf8mb4"

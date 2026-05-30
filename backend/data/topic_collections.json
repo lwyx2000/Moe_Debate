@@ -1,0 +1,6 @@
+[
+  {"id": "school-life", "icon": "🏫", "title": "校园生活", "description": "值日、班干部、作业、课间活动等孩子每天都会遇到的讨论。", "count": 0, "topicIds": []},
+  {"id": "family-rules", "icon": "🏡", "title": "家庭规则", "description": "阅读时间、电子屏幕、零花钱和家务分工，适合亲子共练。", "count": 0, "topicIds": []},
+  {"id": "small-society", "icon": "🌍", "title": "小小社会", "description": "环保、公共礼仪、宠物和社区活动，练习从不同角度看问题。", "count": 0, "topicIds": []},
+  {"id": "interest-growth", "icon": "🎨", "title": "兴趣成长", "description": "兴趣班、比赛、游戏和创作，让孩子讨论“喜欢”和“坚持”。", "count": 0, "topicIds": []}
+]

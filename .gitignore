@@ -1,0 +1,19 @@
+# frontend
+frontend/node_modules
+frontend/dist
+*.local
+
+# backend
+backend/.venv
+__pycache__
+*.py[cod]
+.pytest_cache
+.mypy_cache
+.env
+.env.*
+
+# artifacts
+.DS_Store
+
+# local database
+backend/*.db
